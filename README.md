@@ -1,6 +1,6 @@
 # understanding-data-jobs
 
-# Data Roles Explained in Simple English 👨‍💻📊
+
 
 ## 🔍 What's the Difference Between Data Analysis, Data Science, and Data Engineering?
 
@@ -180,4 +180,10 @@ Think of a **data team** like a car factory:
 - The **Data Steward** keeps the data clean.  
 - The **Consultant** helps improve the whole process.
 
-Everyone plays a part in making data useful. 💡
+---
+
+📬 **Connect with me:**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/omarramadan555)  
+- 🐙 [GitHub](https://github.com/omarrama555)  
+- 📧 Email: omarramadan88888888g@gmail.com
